@@ -1,0 +1,8 @@
+store_id,item_id,recommended_order_qty,unit_cost,estimated_order_value,status,data_source
+S01,P007,827,9.0,7443.0,ORDER,synthetic_simulation
+S02,P002,730,8.0,5840.0,ORDER,synthetic_simulation
+S02,P004,238,2.1,499.8,ORDER,synthetic_simulation
+S03,P002,699,8.0,5592.0,ORDER,synthetic_simulation
+S03,P004,215,2.1,451.5,ORDER,synthetic_simulation
+S03,P006,86,1.2,103.2,ORDER,synthetic_simulation
+S03,P007,793,9.0,7137.0,ORDER,synthetic_simulation
