@@ -1,0 +1,27 @@
+{
+  "rows": 17520,
+  "columns": 14,
+  "missing_by_column": {
+    "date": 0,
+    "store_id": 0,
+    "item_id": 0,
+    "category": 0,
+    "qty_sold": 0,
+    "price": 0,
+    "promo_flag": 0,
+    "stock_on_hand": 0,
+    "stockout_flag": 0,
+    "lead_time_days": 0,
+    "unit_cost": 0,
+    "ordering_cost": 0,
+    "holding_rate": 0,
+    "data_source": 0
+  },
+  "invalid_dates": 0,
+  "missing_store_item_dates": 0,
+  "duplicate_store_item_date": 0,
+  "negative_qty_sold": 0,
+  "stockout_observations": 691,
+  "zero_sales_observations": 3104,
+  "unusual_qty_sold_over_99th_percentile": 170
+}
